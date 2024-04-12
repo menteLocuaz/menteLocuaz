@@ -7,11 +7,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 ## ⚡ Domains:
-- javaScript
 - Python
-- Node.js
 - Web Development
-- Express.js
 - Html/css
 - React.js
 - Boostrap
