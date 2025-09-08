@@ -10,9 +10,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 - Python
 - Web Development
 - Html/css
-- React.js
 - Boostrap
-- Tailwindcss
+- SQL
 <!--
 **menteLocuaz/menteLocuaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
